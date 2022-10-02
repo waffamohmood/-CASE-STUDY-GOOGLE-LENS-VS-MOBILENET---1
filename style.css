@@ -1,0 +1,27 @@
+  .heading
+  {
+    color: red;
+    
+  }
+  img{
+    height: 100px;
+    width: 100px;
+  }
+ hr{
+  color: black;
+ }
+ ol{
+  background-color: gray;
+ }
+ .result{
+ padding: right 20px; ;
+ }
+ .copy_right_footer{
+  position: fixed;
+  color:white;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  line-height: 3;
+  text-align: center;
+ }
